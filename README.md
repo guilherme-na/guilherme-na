@@ -20,10 +20,8 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 ### Skills
 
-<a href"">
-<img src=""> https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue</img>
-</a>
-  
+<a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blu" width="36" height="36" alt="PostgreSQL" /></a>
+
   https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
