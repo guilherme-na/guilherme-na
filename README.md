@@ -1,14 +1,15 @@
 Hi 👋 My name is Guilherme
 ==========================
 
-Desenvolvedor Python Jr
+Estágiario em Programação
 -----------------------------
 
+* ⚡  Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
 * 🌍  Atualmente estou morando em São Paulo - SP
 * ✉️  Você pode entrar em contato comigo atraves do email: gn.araujo00@gmail.com
 * 🚀  Atualmente Estou Trabalhando como Ajudante Geral na [Jadlog - Logística](https://www.jadlog.com.br/jadlog/home)
 * 🧠  Estou Aprendendo Python, e treinando demasiadamente Estrutura de Dados, Algoritmos e Lógica da Programação no Beecrowd
-* 🤝 Estou aberto para colaborar para projetos que mudaram as vidas das pessoas
+* 🤝  Estou aberto para colaborar para projetos que mudaram as vidas das pessoas
 * ⚡  Praticante de Capoeira e outros esportes
 
 ## SKILLS 💣
