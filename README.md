@@ -1,7 +1,7 @@
 Hi 👋 My name is Guilherme
 ==========================
 
-Estágiario em Programação
+Estágiario em Back-end
 -----------------------------
 
 * ⚡  Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
