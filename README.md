@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">A passionate data analyst from brazil</h3>
 
-- 🔭 Project 01 [Churn Analysis and Traffic Data Projects](https://github.com/guilherme-na/customer-churn-analysis)
+- 🔭 Project 01 [Costumer Churn Analyst](https://github.com/guilherme-na/customer-churn-analysis)
 
 - 🌱 I’m currently learning **Advanced Python (Pandas), SQL, and Power BI**
-
-- 👯 Project 02 [Business Dashboard](https://github.com/guilherme-na/dashboard-Business)
 
 - 💬 Ask me about **Python, SQL, Power BI, Google Search Console, and GA4**
 
